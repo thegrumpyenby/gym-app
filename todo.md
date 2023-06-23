@@ -1,0 +1,1 @@
+* check exercises for their categories

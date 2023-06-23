@@ -19,6 +19,7 @@
 * 1/2 kneeling one-armed overhead press
 * pushups
 * overhead press (DB or barbell)
+* lateral raise
 
 ## Pull
 * pull-up against door frame
@@ -65,7 +66,6 @@ hip hinge (hold weight plate to chest, put mini-band around knees)
 * side bends
 * triceps kickback
 * abduction to raise
-* lateral raise
 * hold DB overhead with 1 arm and march
 * kneeling chop
 * 
