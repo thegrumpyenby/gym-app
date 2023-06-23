@@ -20,6 +20,9 @@
 * pushups
 * overhead press (DB or barbell)
 * lateral raise
+* triceps extension DB
+* dips
+* skullcrushers
 
 ## Pull
 * pull-up against door frame
@@ -29,12 +32,12 @@
 * chest flies
 * biceps curls
 * hammer curls
-* triceps extension DB
 * pullovers DB
 * DB single-arm row
 * inverted bodyweight row
-* skullcrushers
-
+* reverse curls
+* incline curls
+* concentration curls
 
 ## Hinge
 hip hinge (hold weight plate to chest, put mini-band around knees)
