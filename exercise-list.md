@@ -29,10 +29,10 @@
 * standing front raises
 * front raises chest supported
 * rear delt flies
-* chest flies
+* (chest fly)[https://www.youtube.com/watch?v=GMFY37x-nOc]
 * biceps curls
 * hammer curls
-* pullovers DB
+* (pullovers DB)[https://www.youtube.com/watch?v=Uy-7vkH1yK8] 
 * DB single-arm row
 * inverted bodyweight row
 * reverse curls
