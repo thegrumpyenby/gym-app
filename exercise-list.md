@@ -9,11 +9,15 @@
 * headcutters
 * lunges
 * squat with russian twist at the top
-* 
+* bootstrapper squat
+* dumbbell sumo squat
+* goblet sumo squat (feet wider than hip, knees out)
 
 ## Push
-* DB bench press
-* DB bench press alternating
+* flat DB bench press (neutral grip)
+* flat DB bench press alternating (neutral grip)
+* flat DB bench press (rotational grip = neutral to pronated)
+* flat DB bench press alternating (rotational grip = neutral to pronated)
 * sitting bench press
 * incline bench press
 * 1/2 kneeling one-armed overhead press
@@ -32,6 +36,7 @@
 * (chest fly)[https://www.youtube.com/watch?v=GMFY37x-nOc]
 * biceps curls
 * hammer curls
+* DB pinwheel biceps curl
 * (pullovers DB)[https://www.youtube.com/watch?v=Uy-7vkH1yK8] 
 * DB single-arm row
 * inverted bodyweight row
@@ -47,6 +52,9 @@ hip hinge (hold weight plate to chest, put mini-band around knees)
 * KB deadlifts
 * Kettlebell RDL
 * single-leg deadlifts
+* cossack squat
+* DB Romanian deadlifts
+* 
 
 ## Carry
 * farmer carry
@@ -71,4 +79,8 @@ hip hinge (hold weight plate to chest, put mini-band around knees)
 * abduction to raise
 * hold DB overhead with 1 arm and march
 * kneeling chop
-* 
+* DB calf raises
+* donkey calf raises
+* dumbbell tibialis raise
+* dumbbell weighted step up
+* lateral box step up
