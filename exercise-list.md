@@ -84,3 +84,13 @@ hip hinge (hold weight plate to chest, put mini-band around knees)
 * dumbbell tibialis raise
 * dumbbell weighted step up
 * lateral box step up
+
+## resistance band
+* Half-Kneeling Archer Row
+* Banded Triceps Pressdown Series
+* Half-Iso Kneeling Straight-Arm Pulldown
+* Kneeling crunch
+* Standing adduction
+* Overhead triceps extension
+* Woodchopper
+* Lat pulldown
